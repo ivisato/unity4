@@ -4,7 +4,6 @@
 	2. Kazkas normalaus
 	3. Allahu akbar explosion simulator (self destruction simulator) kill as many as you can
 
-
 Bendrai
 
 	Žanras:
@@ -38,5 +37,3 @@ Papildomai
 	1. day/night, laikas... (reiktu keist teksturas) (gal ikomponuot i misijas)
 	2. roles (marozai, bomzai, sventuoliai, skustagalviai, forsai, gejai)
 	3. siauliu himna
-
-
