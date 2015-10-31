@@ -1,8 +1,8 @@
-Žaidims 
+Žaidimas 
 
 	--RPG Siauliai
 	--Kazkas normalaus
-	--Allah akbar explosion simulator (self destruction simulator) kill as many as you can
+	--Allahu akbar explosion simulator (self destruction simulator) kill as many as you can
 
 
 --Bendrai
