@@ -1,4 +1,4 @@
-Žaidimas 
+﻿Žaidimas 
 
 	1. RPG Siauliai
 	2. Kazkas normalaus
@@ -36,4 +36,4 @@ Implementation
 Papildomai 
 	1. day/night, laikas... (reiktu keist teksturas) (gal ikomponuot i misijas)
 	2. roles (marozai, bomzai, sventuoliai, skustagalviai, forsai, gejai)
-	3. siauliu himna
+	3. siauliu himna.

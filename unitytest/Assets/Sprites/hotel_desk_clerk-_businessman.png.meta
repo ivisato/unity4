@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: d0fa7cbd950af7144be17e411fe3ef67
+timeCreated: 1446407074
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hotel_desk_clerk-_businessman_0
+    21300002: hotel_desk_clerk-_businessman_1
+    21300004: hotel_desk_clerk-_businessman_2
+    21300006: hotel_desk_clerk-_businessman_3
+    21300008: hotel_desk_clerk-_businessman_4
+    21300010: hotel_desk_clerk-_businessman_5
+    21300012: hotel_desk_clerk-_businessman_6
+    21300014: hotel_desk_clerk-_businessman_7
+    21300016: hotel_desk_clerk-_businessman_8
+    21300018: hotel_desk_clerk-_businessman_9
+    21300020: hotel_desk_clerk-_businessman_10
+    21300022: hotel_desk_clerk-_businessman_11
+    21300024: hotel_desk_clerk-_businessman_12
+    21300026: hotel_desk_clerk-_businessman_13
+    21300028: hotel_desk_clerk-_businessman_14
+    21300030: hotel_desk_clerk-_businessman_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hotel_desk_clerk-_businessman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_desk_clerk-_businessman_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 156
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_desk_clerk-_businessman_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 156
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_desk_clerk-_businessman_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 156
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_desk_clerk-_businessman_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_desk_clerk-_businessman_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 104
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_desk_clerk-_businessman_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 104
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_desk_clerk-_businessman_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 104
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_desk_clerk-_businessman_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_desk_clerk-_businessman_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 52
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_desk_clerk-_businessman_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 52
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_desk_clerk-_businessman_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 52
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_desk_clerk-_businessman_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_desk_clerk-_businessman_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_desk_clerk-_businessman_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotel_desk_clerk-_businessman_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
